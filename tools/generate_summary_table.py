@@ -62,7 +62,7 @@ if __name__ == "__main__":
 
     for yyyy in [d for d in root_dir.iterdir() if is_valid_year(d)]:
         # yyyy/README.md 生成
-        problems = list(get_problems(root_dir))
+        problems = list(get_problems(yyyy))
         problems.sort(key=lambda x: (x.category, x.contest, x.problem))
         with open(yyyy / "README.md", "w") as f:
             f.write(f"# {yyyy.absolute().name}\n")
