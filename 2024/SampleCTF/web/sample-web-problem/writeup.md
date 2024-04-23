@@ -3,7 +3,7 @@ tags:
 createdAt: 2024/04/24
 ---
 
-# sample-crypto-problem
+# sample-web-problem
 
 ## 概要
 

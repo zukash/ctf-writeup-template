@@ -3,7 +3,7 @@ tags:
 createdAt: 2024/04/24
 ---
 
-# sample-crypto-problem
+# sample-pwnable-problem
 
 ## 概要
 
