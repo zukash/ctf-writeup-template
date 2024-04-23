@@ -1,0 +1,1 @@
+# ctf-writeup-template
