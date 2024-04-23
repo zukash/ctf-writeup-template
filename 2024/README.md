@@ -5,6 +5,7 @@
 contest | problem | writeup
 --- | --- | ---
 SampleCTF | [sample-crypto-problem](SampleCTF/crypto/sample-crypto-problem) | [writeup](SampleCTF/crypto/sample-crypto-problem/writeup.md)
+TestCTF | [test-crypto-problem](TestCTF/crypto/test-crypto-problem) | [writeup](TestCTF/crypto/test-crypto-problem/writeup.md)
 
 ## forensics
 
