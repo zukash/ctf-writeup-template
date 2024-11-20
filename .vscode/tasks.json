@@ -5,7 +5,7 @@
       "label": "Execute Python",
       "type": "shell",
       "command": "bash",
-      "args": ["-c", "cd ${fileDirname} && python ${file}"],
+      "args": ["-c", "cd \"${fileDirname}\" && python \"${file}\""],
       "group": "build"
     },
     {
